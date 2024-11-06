@@ -43,7 +43,7 @@
 RTC_HandleTypeDef hrtc;
 
 /* USER CODE BEGIN PV */
-
+int deneme = 0;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
